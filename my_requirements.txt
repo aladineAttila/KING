@@ -1,0 +1,17 @@
+pip
+setuptools
+docutils 
+pygments 
+pywin32 
+kivy.deps.sdl2 
+kivy.deps.glew 
+kivy.deps.gstreamer
+kivy.deps.angle
+pygame
+kivy
+flask
+django
+colorama
+mechanize
+pyinstaller
+virtuelenv

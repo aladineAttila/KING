@@ -1,0 +1,57 @@
+# [] --> Monokai code::blocks
+C:\Users\<username>\AppData\Roaming\EmBlocks\1.40\default.conf
+
+like this
+    <colour_sets>
+      <default />
+      <monokai>
+        <NAME>
+          <str>
+            <![CDATA[Monokai]]>
+          </str>
+        </NAME>
+        <cc>
+          <style0>
+            <FORE>
+              <colour r="255" g="255" b="255" />
+            </FORE>
+            <BACK>
+              <colour r="0" g="0" b="0" />
+            </BACK>
+            <NAME>
+              <str>
+                <![CDATA[Default]]>
+              </str>
+            </NAME>
+          </style0>
+          <style7>
+            <BACK>
+              <colour r="0" g="0" b="0" />
+            </BACK>
+            <NAME>
+              <str>
+                <![CDATA[Inactive preprocessor code]]>
+              </str>
+            </NAME>
+          </style7>
+          <NAME>
+            <str>
+              <![CDATA[C/C++]]>
+            </str>
+          </NAME>
+          <editor>
+            <keywords />
+          </editor>
+        </cc>
+      </monokai>
+      <ACTIVE_COLOUR_SET>
+        <str>
+          <![CDATA[Monokai]]>
+        </str>
+      </ACTIVE_COLOUR_SET>
+      <ACTIVE_LANG>
+        <str>
+          <![CDATA[C/C++]]>
+        </str>
+      </ACTIVE_LANG>
+    </colour_sets>
